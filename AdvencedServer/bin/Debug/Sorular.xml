@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sorular>
+  <Soru>
+    <ID>0</ID>
+    <Text>Mustafa Kemal Atatürk’ün Nüfusa Kayıtlı Olduğu İl Hangisidir?</Text>
+    <A>A)Gaziantep</A>
+    <B>B)Selanik</B>
+    <C>C)Samsun</C>
+    <Cevap>A</Cevap>
+  </Soru>
+  <Soru>
+    <ID>1</ID>
+    <Text>Aşağıdakilerden Hangisi Dünya Sağlık Örgütünün Kısaltılmış İsmidir?</Text>
+    <A>A)NATO</A>
+    <B>B)UNICEF</B>
+    <C>C)WHO</C>
+    <Cevap>C</Cevap>
+  </Soru>
+
+  <Soru>
+    <ID>2</ID>
+    <Text>Aspirinin Hammaddesi Nedir?</Text>
+    <A>A)Söğüt</A>
+    <B>B)Köknar</B>
+    <C>C)Gürgen</C>
+    <Cevap>A</Cevap>
+  </Soru>
+
+  <Soru>
+    <ID>3</ID>
+    <Text>Aşagıdaki kelimelerden hangisi tahıl anlamına gelir?</Text>
+    <A>A)Çerez</A>
+    <B>B)Bakliyat</B>
+    <C>C)Hububat</C>
+    <Cevap>C</Cevap>
+  </Soru>
+
+  <Soru>
+    <ID>4</ID>
+    <Text>Bilgisayar mühendisliği bölüm başkanı kimdir?</Text>
+    <A>A)Nihat Adar</A>
+    <B>B)Kemal Özkan</B>
+    <C>C)Ahmet Yazıcı</C>
+    <Cevap>B</Cevap>
+  </Soru>
+</Sorular>

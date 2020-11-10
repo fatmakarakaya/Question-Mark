@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kisiler>
+  <Kisi ID="001">
+    <Ad>Fatma</Ad>
+    <Soyad>Karakaya</Soyad>
+    <KullaniciAdi>fatma</KullaniciAdi>
+    <Sifre>1</Sifre>
+  </Kisi>
+
+  <Kisi ID="002">
+    <Ad>Emre</Ad>
+    <Soyad>Koc</Soyad>
+    <KullaniciAdi>emre</KullaniciAdi>
+    <Sifre>1</Sifre>
+  </Kisi>
+
+  <Kisi ID="003">
+    <Ad>Baki</Ad>
+    <Soyad>Altiok</Soyad>
+    <KullaniciAdi>baki</KullaniciAdi>
+    <Sifre>1</Sifre>
+  </Kisi>
+  
+  
+</Kisiler>
